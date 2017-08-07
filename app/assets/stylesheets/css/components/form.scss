@@ -1,0 +1,22 @@
+form .btn {
+    width: 50%;
+    margin-top: 20px;
+}
+form {
+  font-size: 24px;
+  font-weight: bold;
+}
+.col-xs-4 {
+  width: 50%;
+  padding: 50px;
+  margin-top: 150px;
+}
+#question {
+  margin-top: 30px;
+  margin-bottom: 30px;
+  opacity: 0.8;
+}
+#question:hover {
+  opacity: 1;
+  border: 1px solid rgb(100, 100, 100);
+}
